@@ -1,3 +1,2 @@
-# jimeh.me
-
-This is the source-code for my personal website: [jimeh.me](http://jimeh.me/)
+# Armin Maddah
+Source-code for my e-business card. Originally forked from: [jimeh.me](http://jimeh.me/)
