@@ -1,5 +1,5 @@
-title: Armin Maddah (madi)
-description: Software Engineering Mercenary
+title: Armin Maddah(madi)
+description: Data Analyst
 author:
   name: Armin Maddah
   nickname: madi
@@ -37,7 +37,6 @@ links:
   - name: last.fm
     url: https://www.last.fm/user/blue3in
     class: fab fa-lastfm
-  - name: 
 
 # additional stuff
 exclude:
