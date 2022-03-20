@@ -24,15 +24,18 @@ twitter:
 # main page content
 
 links:
+  - name: linkedin
+    url: https://www.linkedin.com/in/armin-maddah/
+    class: fab fa-linkedin-in
   - name: github
     url: https://github.com/armin-neuro
     class: fab fa-github
   - name: twitter
     url: https://twitter.com/armin_neuro
     class: fab fa-twitter
-  - name: linkedin
-    url: https://www.linkedin.com/in/armin-maddah/
-    class: fab fa-linkedin-in
+  - name: soundcloud
+    url: https://soundcloud.com/lowlake
+    class: fab fa-soundcloud
   - name: last.fm
     url: https://www.last.fm/user/blue3in
     class: fab fa-lastfm
