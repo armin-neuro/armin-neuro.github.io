@@ -2,10 +2,10 @@ title: Armin Maddah
 description: Data Analyst / Research Specialist
 author:
   name: Armin Maddah 
-  nickname: madi
+  nickname:
   twitter: armin_neuro
-hostname: jimeh.me # used to determine if google analytics should be triggered
-url: https://jimeh.me # the base hostname & protocol for your site
+hostname:  # used to determine if google analytics should be triggered
+url:  # the base hostname & protocol for your site
 baseurl: "" # the subpath of your site, e.g. /blog/
 permalink: /:title/
 
