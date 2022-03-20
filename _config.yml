@@ -24,10 +24,6 @@ twitter:
 
 # main page content
 
-email:
-  title:
-  href: test@me.me
-
 links:
   - name: github
     url: https://github.com/armin-neuro
