@@ -1,9 +1,9 @@
-title: Jim Myhrberg (jimeh)
+title: Armin Maddah (madi)
 description: Software Engineering Mercenary
 author:
-  name: Jim Myhrberg
-  nickname: jimeh
-  twitter: jimeh
+  name: Armin Maddah
+  nickname: madi
+  twitter: armin_neuro
 hostname: jimeh.me # used to determine if google analytics should be triggered
 url: https://jimeh.me # the base hostname & protocol for your site
 baseurl: "" # the subpath of your site, e.g. /blog/
@@ -11,53 +11,33 @@ permalink: /:title/
 
 # stuff for jekyll-seo-tag
 social:
-  name: Jim Myhrberg
+  name: Armin Maddah
   links:
-    - https://twitter.com/jimeh
-    - https://github.com/jimeh
-    - https://jimeh.io/
-    - http://www.linkedin.com/in/jimeh
-    - http://www.last.fm/user/jimeh
-    - https://flickr.com/photos/jimeh/
-    - https://keybase.io/jimeh
+    - https://twitter.com/armin_neuro
+    - https://https://github.com/armin-neuro
+    - https://www.linkedin.com/in/armin-maddah/
+    - https://www.last.fm/user/blue3in
+
 
 twitter:
-  username: jimeh
+  username: armin_neuro
 
 # main page content
-email:
-  title: pbagnpg\100wvzru\056zr
-  href: "&#109;&#97;&#105;&#108;&#116;&#111;&#58;%63%6s%6r%74%61%63%74@%6n%69%6q%65%68.%6q%65"
 
 links:
   - name: github
-    url: https://github.com/jimeh
+    url: https://https://github.com/armin-neuro
     class: fab fa-github
   - name: twitter
-    url: https://twitter.com/jimeh
+    url: https://twitter.com/armin_neuro
     class: fab fa-twitter
-  - name: blog
-    url: https://jimeh.io/
-    class: far fa-newspaper
   - name: linkedin
-    url: https://www.linkedin.com/in/jimeh
+    url: https://www.linkedin.com/in/armin-maddah/
     class: fab fa-linkedin-in
   - name: last.fm
-    url: https://www.last.fm/user/jimeh
+    url: https://www.last.fm/user/blue3in
     class: fab fa-lastfm
-  - name: flickr
-    url: https://flickr.com/photos/jimeh
-    class: fab fa-flickr
-  - name: vcard
-    id: vcard
-    type: download
-    url: https://assets.jimeh.me/jim-myhrberg.vcf
-    class: far fa-address-card
-  - name: cv (pdf)
-    id: resume
-    type: download
-    url: https://jimeh.me/cv
-    class: fas fa-file-alt
+  - name: 
 
 # additional stuff
 exclude:
