@@ -2,7 +2,7 @@ title: Armin Maddah
 description: Data Analyst / Research Specialist
 author:
   name: Armin Maddah 
-  nickname:
+  nickname: madi
   twitter: armin_neuro
 hostname:  # used to determine if google analytics should be triggered
 url:  # the base hostname & protocol for your site
@@ -26,7 +26,7 @@ twitter:
 
 links:
   - name: github
-    url: https://https://github.com/armin-neuro
+    url: https://github.com/armin-neuro
     class: fab fa-github
   - name: twitter
     url: https://twitter.com/armin_neuro
