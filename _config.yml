@@ -3,8 +3,8 @@ description: Data Analyst / Research Specialist
 author:
   name: Armin Maddah
   twitter: armin_neuro
-hostname: armin-neuro.github.io  # used to determine if google analytics should be triggered
-url: https://armin-neuro.github.io # the base hostname & protocol for your site
+hostname: armin.contact  # used to determine if google analytics should be triggered
+url: http://armin.contact # the base hostname & protocol for your site
 baseurl: "" # the subpath of your site, e.g. /blog/
 permalink: /:title/
 
