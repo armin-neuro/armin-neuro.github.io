@@ -43,8 +43,8 @@ links:
     url: https://www.instagram.com/lwlkoae/
     class: fab fa-instagram
   - name: spotify
-    url: https://open.spotify.com/user/arma-madi/playlists
-    class: fa-brands fa-spotify
+    url: https://open.spotify.com/user/arma-madi
+    class: fab fa-spotify
 
 # additional stuff
 exclude:
