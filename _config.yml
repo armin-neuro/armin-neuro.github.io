@@ -32,7 +32,7 @@ links:
     class: fab fa-github
   - name: gscholar
     url: https://scholar.google.com/citations?user=vA37_loAAAAJ&hl=en
-    class: fab  fa-graduation-cap
+    class: fa fa-graduation-cap
   - name: twitter
     url: https://twitter.com/armin_neuro
     class: fab fa-twitter
